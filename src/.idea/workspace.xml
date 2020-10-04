@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d80f209-66f5-4fcf-8bf1-dddd5801303a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iGnX0Oc2ECXsPaW3nKqNetW48T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d80f209-66f5-4fcf-8bf1-dddd5801303a" name="Default Changelist" comment="" />
+      <created>1601542831865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601542831865</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="279" y="25" key="#Project_Structure" timestamp="1601546726383">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="279" y="25" key="#Project_Structure/0.0.1366.724@0.0.1366.724" timestamp="1601546726383" />
+    <state x="142" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601547492891">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="142" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.724@0.0.1366.724" timestamp="1601547492891" />
+    <state x="536" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601543476846">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="536" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.724@0.0.1366.724" timestamp="1601543476846" />
+    <state x="467" y="121" key="FileChooserDialogImpl" timestamp="1601546715352">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="467" y="121" key="FileChooserDialogImpl/0.0.1366.724@0.0.1366.724" timestamp="1601546715352" />
+    <state x="509" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601547449038">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="509" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.724@0.0.1366.724" timestamp="1601547449038" />
+  </component>
+</project>
